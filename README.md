@@ -18,7 +18,7 @@ During the audit, 10 vulnerabilities were identified, including:
 - **Missing Security Headers (Medium):** Lack of CSP and Anti-clickjacking protection.
 
 ## 📂 Deliverables
-- [Full PDF Report](./Rapport_Task1_Cybersecurity_David_Nadhon.pdf)
+- [Full PDF Report](./Rapport_Task1_Cybersecurity_NADHON_AZO_KOKOU_DAVID.pdf)
 - Screenshots of Proof of Concept (PoC)
 
 ---
